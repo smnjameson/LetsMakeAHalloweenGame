@@ -57,7 +57,7 @@ ENEMIES: {
 	init: {
 		lda #$00
 		sta CurrentEnemyCount
-		lda #$60
+		lda #$00
 		sta CurrentWaveNumber
 
 		lda #$00
