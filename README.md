@@ -1,6 +1,6 @@
 # LetsMakeAHalloweenGame
 
-Here is the code for LUNA, my Commodore 64 entry to the DoubleSidedGames Halloween Competition 2019. Visit their website (https://doublesidedgames.com/) to look through their games and give them the support they deserve. 
+Here is the code for LUNA, my Commodore 64 entry to the Halloween Competition 2019 organised by "Phaze101, Commodore Creators, AMIGA Malta User Club, Commodore 64 Malta User Club and AMIGA Game Developers Facebook groups, in special collaboration with Double Sided Games". Visit their website (https://doublesidedgames.com/) to look through their games and give them the support they deserve. 
 
 Written in 6502 assembly using KickAssembler, this game was 95% coded in a single sitting during a 13 hour Twitch marathon stream using assets donated by my viewers. Additional testing and bug fixing (5-6 hours) was done in the following few days to get it ready for submission. The stream can be watched through the VODs on my channel (https://www.twitch.tv/videos/499895291)
 
